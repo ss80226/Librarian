@@ -1,0 +1,28 @@
+.history-list {
+	width: 70%;
+	margin: 1.5rem auto;
+}
+
+.history-list .empty {
+    margin: 1.5rem auto;
+    width: 90%;
+    color: white;
+    border-radius: 25px;
+    background-color: transparent;
+    border: solid rgba(255,255,255,0.85) 1px !important;
+    height: 20rem;
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.history-list .empty-text {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+@media (max-width: 576px) {
+    .history-list {
+    	width: 90% !important;
+    }
+
+}

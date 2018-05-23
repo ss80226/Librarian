@@ -1,0 +1,4 @@
+#Fri Jun 16 22:02:29 CST 2017
+base.0=/Users/ssbl/Desktop/librarian/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ssbl/Desktop/librarian/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

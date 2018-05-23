@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ssbl/Desktop/librarian/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/ssbl/Desktop/librarian/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ssbl/Desktop/WeatherMoodMobile/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/ssbl/Desktop/WeatherMoodMobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

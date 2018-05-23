@@ -1,0 +1,77 @@
+.main {
+    height: 100%;
+}
+
+.main .footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 6rem 2rem 2rem 2rem;
+}
+
+.navbar-mid {
+    width: 100% !important;
+}
+
+.navbar-top{
+    background-color: rgb(137,15,1) !important;
+}
+
+/*.main .navbar-top{
+    height: 10rem;
+}
+
+.main .navbar-top .icon{
+    height: 100%;
+}
+
+.main .search {
+    position: relative;
+    width: 100%;
+}
+
+.main .search input {
+    padding-right: 1.5rem;
+}
+
+.main .search i {
+    position: absolute;
+    top: 0.25rem;
+    right: 0.5rem;
+}
+
+.main .search i:hover {
+    color: #5bc0de;
+}*/
+
+@media (max-width: 576px) {
+    html {
+        font-size: 11px !important;
+    }
+    .title {
+        font-size: 1.5rem !important;
+/*        font-weight: 200 !important;
+*/    }
+    .item {
+        font-size: 1rem !important;
+/*        font-weight: 200 !important;
+*/    }
+    .navbar-top .space {
+        display: none !important;
+    }
+    .navbar-top .icon {
+        display: none !important;
+    }
+}
+.title {
+    font-family: 'Inknut Antiqua', serif !important;
+    /*color: white !important;*/
+    font-size: 2rem ;
+    font-weight: 400;
+    font-style: normal !important;
+}
+.item {
+    /*font-family: 'Ravi Prakash', cursive !important;*/
+    font-size: 1.5rem ;
+    font-weight: 400;
+    color: white !important;
+}

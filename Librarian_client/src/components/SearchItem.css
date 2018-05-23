@@ -1,0 +1,26 @@
+.post-item {
+    width: 100%
+}
+
+.post-item .post {
+    width: 100%
+}
+
+.post-item .mood {
+    text-align: center;
+    font-size: 2rem;
+    width: 3rem;
+}
+
+.post-item .wrap {
+    color: black;
+    width: 100%;
+    padding-left: 0.75rem;
+    overflow: hidden;
+}
+
+.text {
+    color: rgb(137,15,1) !important;
+    font-style: normal;
+    font-weight: 700 !important;
+}

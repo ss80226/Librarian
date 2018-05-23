@@ -1,0 +1,54 @@
+.search-form {
+	width: 100%;
+	margin: 1rem auto;
+}
+
+.search-form.form {
+    padding-bottom: 1rem;
+}
+
+.search-form btn-form {
+    color: white;
+}
+
+input::placeholder {
+  color: rgba(158, 155, 157, 0.8) !important;
+}
+
+.search-form input, .search-form button {
+    margin-top: 0.25rem;
+}
+
+.II {
+		display: block !important;
+		width: 45% !important;
+}
+
+.not-weathermood-btn {
+		background-color: rgb(137,15,1) !important;
+		border: solid white 1px !important;
+}
+
+.not-weathermood-btn:hover {
+		background-color: Crimson !important;
+		border: solid Crimson 1px !important;
+}
+
+/*.search-form .II{
+	width: 45% !important;
+}
+
+.search-form .bd{
+	width: 10% !important;
+}
+
+.search-form .bd button{
+	width: 10% !important;
+}
+
+.search-form button{
+	width: 10% !important;
+}
+.search-form .form-body{
+	width: 100% !important;
+}*/

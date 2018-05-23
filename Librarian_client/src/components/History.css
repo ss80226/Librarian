@@ -1,0 +1,89 @@
+/*.history {
+    padding: 1rem;
+}
+
+
+
+.history .historyList .label {
+    color: rgba(255, 255, 255, 0.7);
+    text-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.3), 0 0 1rem rgba(0, 0, 0, 0.7);
+    margin-bottom: 1rem;
+    font-weight: 300;
+}
+
+*/
+
+.history {
+    padding: 1rem;
+}
+
+.card {
+    margin: 0.2rem auto !important;
+    width: 70% !important;
+    border-radius: 25px !important;
+    border: solid rgba(255,255,255,0.85) 1px !important;
+    /*background-color: rgba(137,15,1,0.7) !important;*/
+    background-color: rgba(255, 242, 204, 0.7) !important;
+    color: black !important;
+    padding: 0px auto;
+}
+
+.history .historyList .label {
+    color: rgba(255, 255, 255, 0.7);
+    text-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.3), 0 0 1rem rgba(0, 0, 0, 0.7);
+    margin-bottom: 1rem;
+    font-weight: 300;
+
+}
+
+@media (min-width: 576px){
+    .d-bt{
+        font-size: 2rem !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .history .historyList .d-bt {
+        width: 90% !important;
+    }
+    .card {
+        width: 90% !important;
+    }
+    .history .historyList .title{
+        width: 90% !important;
+    }
+    .history .historyList .h-list {
+        width: 90% !important;
+    }
+}
+
+.history .historyList .d-bt {
+    margin :0px auto;
+    width: 70%;
+}
+
+.history .historyList .title{
+    width: 70%;
+    margin: 1.5rem auto;
+    color: white;
+}
+
+.history .historyList .h-list{
+    width: 70%;
+    margin: 1.5rem auto;
+    color: white;
+}
+
+.btn-delete {
+    /*float: right !important;*/
+}
+
+/*.history .historyList .loading {
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0 auto;
+    text-align: center;
+    z-index: 999;
+}*/
